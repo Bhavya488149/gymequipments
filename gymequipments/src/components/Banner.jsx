@@ -7,7 +7,7 @@ export default function Banner() {
     <div
       className="banner"
       style={{
-        backgroundImage: `linear-gradient(#000000a0, #000000a0), url('/images/gym.jpg')`,
+        backgroundImage: `linear-gradient(#000000a0, #000000a0), url('/gym.jpg')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}

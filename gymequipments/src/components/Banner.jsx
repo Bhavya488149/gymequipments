@@ -19,7 +19,7 @@ export default function Banner() {
           <button className="btn btn-primary" onClick={() => navigate("/services")}>
             Shop Now
           </button>
-          <button className="btn btn-secondary" onClick={() => navigate("/services")}>
+          <button className="btn btn-secondary" onClick={() => navigate("/about") }>
             Get Info
           </button>
         </div>
